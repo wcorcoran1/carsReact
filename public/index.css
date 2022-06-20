@@ -1,0 +1,30 @@
+.cars {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+.tacoma {
+    border:1px black solid
+}
+.tacomaImage {
+    height:12vmax;
+}
+
+.camry {
+    border:1px black solid
+}
+.camryImage {
+    height:12vmax;
+}
+.subaru {
+    border:1px black solid
+}
+.subaruImage {
+    height:15vmax;
+}
+.mustang {
+    border:1px black solid
+}
+.mustangImage{
+    height:16vmax;
+}
